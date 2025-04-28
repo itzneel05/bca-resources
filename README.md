@@ -1,6 +1,6 @@
 # BCA Learning Resources Repository
 
-Welcome to the **BCA Learning Resources** repository! This repository contains a comprehensive set of resources to help BCA students master key programming concepts, data structures, algorithms, and more. It includes solved programs, practice questions, and mini-projects, all organized by semester and subject.
+Welcome to the **BCA Learning Resources** repository! This repository contains a comprehensive set of resources to help BCA students. It includes solved programs, practice questions, and mini-projects, all organized by semester and subject.
 
 ## 🚀 Repository Structure
 
