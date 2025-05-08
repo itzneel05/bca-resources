@@ -7,5 +7,4 @@ Welcome to the **BCA Learning Resources** repository! This is a personal collect
 - **Semester-wise Organization**: Resources are organized by semester branches for easy access.
 - **Subject Folders**: Each folder contains personal codes, solved problems, and mini-projects.
   - **Codes**: Solved programming exercises and algorithms.
-  - **Practice Questions**: A set of questions for practice.
   - **Projects**: Mini-projects related to the course subjects.
