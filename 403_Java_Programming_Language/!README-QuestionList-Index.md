@@ -3,6 +3,12 @@
 
 This folder contains **Java programs and practice questions** categorized by important core topics covered in the BCA syllabus. It includes both **example codes** for understanding concepts and **practice problems** for hands-on learning.
 
+## 📁 Folder Structure
+
+Each topic contains:
+- 📌 **Sample Code** (`filename.java`) — Demonstrates basic and advanced Java concepts.
+- 📌 **Practice Questions** — To strengthen understanding and prepare for exams/interviews.
+
 
 ## 📚 Topics & Questions List:
 
@@ -18,7 +24,7 @@ This folder contains **Java programs and practice questions** categorized by imp
 
 - Create an interface Printable with a method print(). Implement it in two classes with different outputs. - [Solution](https://github.com/itzneel05/bca-resources/blob/semester-4/403_Java_Programming_Language/Codes/Basic_Interface.java)
 - Write a program that shows multiple interface implementation in a single class. - [Solution](https://github.com/itzneel05/bca-resources/blob/semester-4/403_Java_Programming_Language/Codes/Basic_Interface_v2.java)
-- Write a program to create interface area. Create three classes called rectangle, triangle, and square calculate areas respectively - [Code](https://github.com/itzneel05/bca-resources/blob/semester-4/403_Java_Programming_Language/Codes/ShapesInterface.java)
+- Write a program to create interface area. Create three classes called rectangle, triangle, and square calculate areas respectively - [Solution](https://github.com/itzneel05/bca-resources/blob/semester-4/403_Java_Programming_Language/Codes/ShapesInterface.java)
 
   ### Command Line Arguments  
 
