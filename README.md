@@ -7,7 +7,7 @@ This branch includes my **personal study codes** and **practice questions** for 
 
 ## 📚 Subjects Covered
 
-### 1. **Java Programming Language(Java)**
+### 1. **Java Programming Language(Java)** [[Redirect]](https://github.com/itzneel05/bca-resources/blob/semester-4/403_Java_Programming_Language/!README-QuestionList-Index.md)
 #### 📖 Syllabus Overview:
 - Introduction to Java
 - Classes and Objects
@@ -28,7 +28,7 @@ This branch includes my **personal study codes** and **practice questions** for 
 
 ---
 
-### 2. **.NET Programming(.NET)**
+### 2. **.NET Programming(.NET)** [[Redirect]]()
 #### 📖 Syllabus Overview:
 - Overview of Microsoft .NET Framework
 - Programming in Visual Basic .NET
@@ -63,9 +63,7 @@ This branch includes my **personal study codes** and **practice questions** for 
 
 4. **Download and Run Projects Easily**:
    - For Java Codes, save in "Notepad++" or "vscode" and run in **cmd**
-   - For .NET Codes, checkout .rar file and Extract Files In Project Section of Microsoft Visual Studio 2010. [Tutorial Down below]
-   https://archive.org/account/login
-
+   - For .NET Codes, Download Folder and Extract Folder In Project Section of Microsoft Visual Studio 2010. 
 
 ---
 
