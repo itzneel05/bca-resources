@@ -12,9 +12,6 @@ Each semester is managed in its own **branch** to keep things organized and rele
 
 | Semester | Subjects Covered | Branch Link |
 |----------|------------------|-------------|
-| Semester 1 | Coming Soon | `sem-1` |
-| Semester 2 | Coming Soon | `sem-2` |
-| Semester 3 | Coming Soon | `sem-3` |
 | Semester 4 | Java Programming Language, .NET Framework | [Go to sem-4](https://github.com/itzneel05/bca-resources/tree/semester-4?tab=readme-ov-file) |
 | Semester 5 | Coming Soon | `sem-5` |
 | Semester 6 | Coming Soon | `sem-6` |
