@@ -1,0 +1,16 @@
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\bin\Debug\PaperA.exe
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\bin\Debug\PaperA.pdb
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\bin\Debug\PaperA.xml
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\obj\x86\Debug\PaperA.Form1.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\obj\x86\Debug\PaperA.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\obj\x86\Debug\PaperA.vbproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\obj\x86\Debug\PaperA.exe
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\obj\x86\Debug\PaperA.xml
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\obj\x86\Debug\PaperA.pdb
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\bin\Debug\PaperA.mdf
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\bin\Debug\PaperA_log.ldf
+c:\users\home\documents\visual studio 2010\Projects\PaperA\PaperA\bin\Debug\PaperA.exe.config
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Patient_Reg\PaperA\bin\Debug\PaperA.exe.config
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Patient_Reg\PaperA\obj\x86\Debug\PaperA.exe
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Patient_Reg\PaperA\obj\x86\Debug\PaperA.xml
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Patient_Reg\PaperA\obj\x86\Debug\PaperA.pdb

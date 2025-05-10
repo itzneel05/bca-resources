@@ -1,0 +1,17 @@
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\bin\Debug\PaperB.mdf
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\bin\Debug\PaperB_log.ldf
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\bin\Debug\PaperB.exe
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\bin\Debug\PaperB.pdb
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\bin\Debug\PaperB.xml
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.Form1.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.InsertForm.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.vbproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.exe
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.xml
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.pdb
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.DeleteForm.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperB\PaperB\obj\x86\Debug\PaperB.UpdateForm.resources
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\LibraryForm\PaperB\obj\x86\Debug\PaperB.exe
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\LibraryForm\PaperB\obj\x86\Debug\PaperB.xml
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\LibraryForm\PaperB\obj\x86\Debug\PaperB.pdb

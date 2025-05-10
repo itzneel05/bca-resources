@@ -1,0 +1,14 @@
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\bin\Debug\PaperE.exe
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\bin\Debug\PaperE.pdb
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\bin\Debug\PaperE.xml
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\obj\x86\Debug\PaperE.Form1.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\obj\x86\Debug\PaperE.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\obj\x86\Debug\PaperE.vbproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\obj\x86\Debug\PaperE.exe
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\obj\x86\Debug\PaperE.xml
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\obj\x86\Debug\PaperE.pdb
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\bin\Debug\PaperE.mdf
+c:\users\home\documents\visual studio 2010\Projects\PaperE\PaperE\bin\Debug\PaperE_log.ldf
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\ItemForm\PaperE\obj\x86\Debug\PaperE.exe
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\ItemForm\PaperE\obj\x86\Debug\PaperE.xml
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\ItemForm\PaperE\obj\x86\Debug\PaperE.pdb
