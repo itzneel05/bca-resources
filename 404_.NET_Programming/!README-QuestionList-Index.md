@@ -14,29 +14,29 @@ Each topic contains:
 
 ### Sample Codes - Read Made Code
 - Display value from Text box, combo box, list box, radio buttons and checkbox on button click event in Message box.
-  [Basic_Operation]()
+  [Basic_Operation](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/Basic_Operation)
 - Develop a Vb.Net form to use input box and do arithmetic operations. 
-  [Arithmetic_Operation]()
+  [Arithmetic_Operation](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/Arithmetic_Operation)
 - Develop a Vb.Net form that shows current date and time
-  [Show_DateTime]()
+  [Show_DateTime](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/Show_DateTime)
 - Develop calculator application in VB.Net 
-  [Calculator]()
+  [Calculator](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/Calculator)
 - Design a Vb.Net form to pick a date from date time picker control and display day, month and year in separate textboxes. 
-  [DatePicker]()
+  [DatePicker](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/DatePicker)
 - Develop application to use rich text box.
-  [RichTextBox]()
+  [RichTextBox](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/RichTextBox)
 - Create Vb.Net Application that populate combo box with book name. Once user selects a particular book name, display corresponding details about cost, number of copies of the book etc. Also delete the record by accepting book_ no. (Book:BookNo, Name, AuthorName, Cost, NoOfCopies) 
-  [BookManagement]()
+  [BookManagement](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/BookManagement)
 - Develop a master form for employees which provides facility for insert, update, delete, search and display employees records. Make necessary validations. 
-  [EmpMasterForm]()
+  [EmpMasterForm](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/EmpMasterForm)
 - Create VB.NET application to maintain Student information. Create following tables:Tblstuinfo (stuNo, stuName, City, DOB, Course, fees) Design proper form and make necessary validation. Provide insert, update, and delete facility for above table.Also provide search facility on StdNo, generate report DataGridView To view details of those Students who are in BCA Course and fee is less than 25000. 
-  [StudentForm]()
+  [StudentForm](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/StudentForm)
 - Create .Net application which stores information of any hospital using following tables: Patient_Master: (Patient_no, Patient_name, Doctor_no, Admitted_date, Discharge_date, Room_no) | Doctor_Master: (Doctor_no, Doctor_name, Specialization) | Perform following operations: a) Display names of patients admitted during current month. b) Provide Insert, Update and Delete facility. c) Display name of a doctor along with patients treated by them. 
-  [Patient_Reg]()
+  [Patient_Reg](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/Patient_Reg)
 - Create VB.Net MDI application that has following functionalities for a Library. | Insert Books in Book Master table (Book_ID, BookName, Language (English, Hindi, Gujarati), Price, Subject) | Listing of all data in DataGrid View and ability to filter book data by Language. |  Update, Delete operations for Updating Book Subject. | List out all Books with Price less than Rs. 500 on Button Click. 
-[LibraryForm]()
+[LibraryForm](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/LibraryForm)
 - Create a table called ItemMst with following fields: ItemMst (ItemNo [PK], IName, Rate) Create Item Master Form in .NET which accepts the above information and performs the functionalities like Add New, Save, Delete, Search & Exit records.
-[ItemForm]()
+[ItemForm](https://github.com/itzneel05/bca-resources/tree/semester-4/404_.NET_Programming/ItemForm)
 
 ### Practice Questions
 - Create VB.Net application to maintain Vehicle Service Information. Create following tables. VehicleMaster(ServiceNo, VehicleNo, Attend(Yes/No)) TypeOfJob (Service/Color/Accident, JobDetail, EntryDate, DeliveryDate) Design proper form and make necessary validation. Provide insert, update and delete facility for above table. Generate report DataGridView to view VehicleNo of those Vehicles which are not attended and have to be colored
