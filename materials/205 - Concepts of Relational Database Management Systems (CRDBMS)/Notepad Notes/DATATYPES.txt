@@ -1,0 +1,118 @@
+DATATYPES:
+- it refers that what type of data holds 
+  by the variable.
+
+--------------NUMERIC DATATYPES--------------
+________
+1.Number
+________ 
+- it is use to store numeric values
+- values can be -ve or +ve
+- sy:Number(p[,s])
+  p - precision is the no or decimal digits.
+  s - sale is the no of digit to the right 
+      of the decimal point.
+- ex1:1000
+     (here 1000 is the precision)
+- ex2:1000.34
+     (here 1000.34 is the precision 
+      and 34 is the scale)
+
+--------------STRING DATATYPES--------------
+______
+2.Char
+______
+- it is use to store character value of 
+  fixed size
+- size upto 2000 bytes
+- sy:char(size)
+     (size determines the no of characters
+      the variable can hold)
+_______
+3.NChar
+_______
+- it is use to store national character/string
+  data of fixed size
+- specially used for storing special symbols
+  and UNICODE
+- size upto 2000 bytes
+
+__________
+4.Varchar2
+__________
+- it is use to store character/string data
+- size upto 4000 bytes
+- sy:Varchar(size)
+     (size determines the no of characters
+      the variable can hold)
+
+_________
+5.Varchar
+_________
+- same as Varchar2
+- it is suggested to use Varchar2
+
+__________
+6.NVarchar
+__________
+- it is use to store national character/string
+  data
+- specially used for storing special symbols
+  and UNICODE
+- size upto 4000 bytes
+
+------------DATE & TIME DATATYPES-----------
+
+______
+7.Date
+______
+- it use to store valid date time format with
+  fixed length
+- standard format:dd-mon-yy as 20-Dec-2022
+
+___________
+8.Timestamp
+___________
+- it is use to store valid date in 
+  yyyy-mm-dd with time hh:mm:ss format
+
+-----------LARGE OBJECT DATATYPES------------
+
+______
+9.CLOB
+______
+- stands for Character Large Object
+- it is used for single byte character data
+- use to store image, audio, video on file
+- size upto 4GB
+
+_______
+10.NCLOB
+_______
+- stands for National Character Large Object
+- it is used for single-byte or multi-byte 
+  character data
+- use to store image, audio, video on file
+- size upto 4GB
+
+_______
+11.long
+_______
+- it is use to store variable length
+  character data
+- size upto 2GB
+
+______
+12.RAW
+______
+- it is use to store variable length
+  binary data
+- size upto 2000 bytes per row
+- RAW(size) must have to specify size
+
+__________
+13.LONGROW
+__________
+- it is use to store variable length
+  binary data
+- size upto 2 GB bytes per row

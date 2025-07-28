@@ -1,0 +1,120 @@
+Create following tables by using appropriate constraints on it.
+
+1.Salesman_b23(snum(s1),sname,city,commission)
+2.Customer_b23(cnum(c1),cname,city,snum)
+3.Order_b23(onum(o1),odate,pur_amt,snum,cnum)
+__________
+SALESMAN
+__________
+
+create table salesman 
+(
+snum varchar2(10) primary key, 
+sname varchar2(25), 
+city varchar2(15), 
+commission number
+);
+
+________
+CUSTOMER
+________
+create table customer
+(
+cnum varchar2(10) primary key,
+cname varchar2(25),
+city varchar2(15),
+snum varchar2(10) references salesman
+);
+
+_____
+ORDER
+_______
+create table orders
+(
+onum varchar2(10) primary key,
+odate date,
+pur_amt number,
+snum varchar2(10) references salesman,
+cnum varchar2(10) references customer
+);
+
+________________________________________________________________
+
+1.write a SQL query to find the salespersons and customers who live in same city. 
+  Return customer name, salesperson name and salesperson city.
+
+SELECT customer.cname,
+salesman.name, salesman.city
+FROM salesman, customer
+WHERE salesman.city = customer.city;
+
+2.write a SQL query to find all the customers along with the salesperson who works for them. Return customer name, and salesperson name.
+
+SELECT customer.cname, salesman.name
+FROM customer,salesman
+WHERE salesman.snum = customer.snum;
+
+3.write a SQL query to find those salespeople who generated orders for their customers but not located in the same city. Return onum, cname, cnum (orders table), snum(orders table).
+
+SELECT orders.onum, customer.cname, orders.cnum, orders.snum
+FROM customer, orders,salesman
+WHERE customer.city <> salesman.city AND orders.cnum = customer.cnum AND orders.snum = salesman.snum;
+
+4.write a SQL query to find those orders made by customers. Return order number, customer name.
+
+SELECT orders.onum, customer.cname
+FROM orders, customer
+WHERE orders.cnum = customer.cnum; 
+
+5.write a SQL query to find those customers where each customer has a grade and served by at least a salesperson who belongs to a city. Return - 
+cname as "Customer", 
+grade as "Grade" or rating as "Rating" 
+onum as "Order No."
+
+SELECT customer.cname AS "Customer",
+customer.grade AS "Grade",orders.onum AS "Order No."
+FROM orders, salesman, customer
+WHERE orders.cnum= customer.cnum
+AND orders.snum = salesman.snum
+AND salesman.city IS NOT NULL
+AND customer.grade IS NOT NULL;
+
+6.write a SQL query to find those customers who served by a salesperson and the salesperson works at the commission in the range 12% to 14% (Begin and end values are included.). Return cname AS "Customer", city AS "City".
+
+SELECT customer.cust_name AS "Customer",
+customer.city AS "City",
+salesman.sname AS "Salesman",
+salesman.commission
+FROM customer,salesman
+WHERE customer.snum = salesman.snum
+AND salesman.commission
+BETWEEN .12 AND .14;
+
+7.write a SQL query to find those orders executed by the salesperson, ordered by the customer whose grade is greater than or equal to 200. Compute pur_amt*commission as "Commission". Return customer name, commission as "Commission%" and Commission.
+
+SELECT ord_no, cust_name, commission AS "Commission%",
+pur_amt*commission AS "Commission"
+FROM salesman,orders,customer
+WHERE orders.cnum = customer.cnum
+AND orders.snum = salesman.snum
+AND customer.grade>=200;
+
+8.write a SQL query to find those customers who made orders on October 5, 2012. Return cnum, cname, city, grade, snum, onum, purch_amt, odate and cnum.
+
+SELECT *
+FROM customer a,orders b 
+WHERE a.cnum=b.cnum 
+AND b.ord_date='2012-10-05';
+_________________________________________________________________
+Example:2
+Sample table: company(company_id,company_name)
+Sample table: foods(item_id,item_name)
+_________________________________________________________________
+
+
+1.Write a query to join two tables 'company' and 'foods'.
+
+SELECT  company.company_id,company.company_name,
+foods.item_id,foods.item_name
+FROM company,foods;
+

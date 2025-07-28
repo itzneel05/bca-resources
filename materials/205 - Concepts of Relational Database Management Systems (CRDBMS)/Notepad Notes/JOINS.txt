@@ -1,0 +1,87 @@
+JOINS :
+
+- the purpose of "JOINS" is to combine the data from 2 or more tables in a DB.
+- "join" is actually perform by "WHERE" clause.
+- "WHERE" clause combines the specified rows of table.
+- NOTE: if a join involves more than 2 tables than "join" first 
+        2 tables based on "join" condition and then compares the 
+					result with next table and so on.
+					
+			ex:table1,table2,table3
+                    					(table1.table2)=table4
+							 (table3.table4)
+
+- RULES : both tables must contain atleast one common column 
+- Types of  "JOINS" :
+   (1) Inner-Join
+   (2) Outer-Join(Left,Right,Full)
+   (3) Cross-Join
+ 
+- (1) Inner-Join : returns records that have matching values in both tables
+
+- (2) (LEFT)Outer-Join : returns all records from left table & matched records from right table
+			sy:		   
+           select *
+           from table1
+           LEFT JOIN table2
+           ON table1.column_name=table2.column_name;
+
+        (RIGHT)Outer-Join : returns all records from right table & matched records from left table
+			sy:		   
+           select *
+           from table1
+           RIGHT JOIN table2
+           ON table1.column_name=table2.column_name;
+        (FULL)Outer-Join : it is a combination of RIGHT & LEFT outer join
+		sy:
+		select *
+        from personal FULL OUTER JOIN table2
+        ON table1.column_name=table2.column_name;
+
+- (3) Cross-Join(Cartesian Join) : it multiplies the no. of rows in table1 by 
+        the no. of rows in table2
+        Cross-Join=(no. of rows in table1) * (no. of rows in table2)
+		sy:
+        select *
+        from table1
+        CROSS JOIN table2;
+
+
+TABLE 1 : Personal
+(id,name,city,contact)
+TABLE 2 :Professional
+(work(teacher/cashier/doctor,dept(BCA/HDFC/BAMS),id)
+
+NOTE : Equi, Natural, Inner Join results similar data only
+
+-------------Equi Join-----------------------------
+select name,city,work
+from personal,professional
+where personal.id=professional.id;
+-------------Non-Equi Join-----------------------
+select name,city,work
+from personal,professional
+where personal.id>professional.id;
+-------------Natural Join--------------------------
+select name,city,work
+from personal NATURAL JOIN professional;
+-------------Inner Join--------------------------
+select name,city,work
+from personal INNER JOIN professional
+ON personal.id=professional.id;
+-----------------------Cross Join-------------------------
+select name,city,work
+from personal CROSS JOIN professional;
+------------------Full-Outer Join-------------------------
+select name,city,dept
+from personal FULL OUTER JOIN professional
+ON (personal.id=professional.id);
+-----------------Right-Outer Join------------------------
+select name,city,dept
+from personal RIGHT OUTER JOIN professional
+ON (personal.id=professional.id);
+-----------------Left-Outer Join-------------------------
+select name,city,dept
+from personal LEFT OUTER JOIN professional
+ON (personal.id=professional.id);
+

@@ -1,0 +1,97 @@
+- Create following tables with appropriate constraints on it.
+1.Employee(eid,ename,dob,did)
+2.Dept(did,dname)
+
+______________
+Employee table
+______________
+create table employee
+(
+eid varchar(10) primary key,
+ename varchar(40) not null,
+dob date,
+did varchar(10),
+foreign key(did) references dept(did)
+);
+
+OR
+
+create table employee
+(
+eid varchar(10) primary key,
+ename varchar(40) not null,
+dob date,
+did varchar(10) references dept
+);
+
+insert into employee values('E101','Sagar','12-oct-1998','D1');
+insert into employee values('E102','Lalit','02-feb-1996','D2');
+insert into employee values('E103','Tina','08-jun-1996','D3');
+insert into employee values('E104','Rekha','19-dec-1997','D1');
+__________
+Dept table
+__________
+create table dept
+(
+did varchar(10) primary key,
+dname varchar(20) not null
+);
+
+insert into dept values('D1','IT');
+insert into dept values('D2','Production');
+insert into dept values('D3','Sales');
+
+Q1. Display the details of employee who is not working in any dept.
+
+select * from employee
+where did NOT IN
+(select did from dept
+where dname='IT' AND dname='Sales' And dname='Production');
+
+
+
+
+
+
+
+select * from employee
+where did IN
+(select did from dept
+where dname='IT')
+
+Display the details of employee who is working in "Sales" and "IT" dept.
+
+select * from employee
+where did IN
+(select did from dept
+where dname='IT' AND dname='Sales')
+
+Display the details of employee who is not working in "Production" dept.
+Display the details of employee who is working in any dept.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select * from employee
+where did IN(select did from dept
+where dname='IT');
+
+Q2. Display the details of employee who is working in "Sales" dept.
+
+
+Q3. Display the details of employee who is not working in any dept.
+
+select * from employee
+where did NOT IN(select did from dept);
