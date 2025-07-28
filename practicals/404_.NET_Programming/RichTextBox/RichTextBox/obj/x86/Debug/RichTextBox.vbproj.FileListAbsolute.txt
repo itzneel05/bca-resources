@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\bin\Debug\RichTextBox.pdb
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\bin\Debug\RichTextBox.xml
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\obj\x86\Debug\RichTextBox.Form1.resources
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\obj\x86\Debug\RichTextBox.Resources.resources
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\obj\x86\Debug\RichTextBox.vbproj.GenerateResource.Cache
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\obj\x86\Debug\RichTextBox.exe
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\obj\x86\Debug\RichTextBox.xml
+C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\RichTextBox\RichTextBox\obj\x86\Debug\RichTextBox.pdb

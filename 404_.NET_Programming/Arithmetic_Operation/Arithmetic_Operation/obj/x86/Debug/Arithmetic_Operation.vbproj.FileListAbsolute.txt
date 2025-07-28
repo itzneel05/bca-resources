@@ -1,9 +1,0 @@
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\bin\Debug\Arithmetic_Operation.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\bin\Debug\Arithmetic_Operation.pdb
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\bin\Debug\Arithmetic_Operation.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\obj\x86\Debug\Arithmetic_Operation.Form1.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\obj\x86\Debug\Arithmetic_Operation.Resources.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\obj\x86\Debug\Arithmetic_Operation.vbproj.GenerateResource.Cache
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\obj\x86\Debug\Arithmetic_Operation.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\obj\x86\Debug\Arithmetic_Operation.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Arithmetic_Operation\Arithmetic_Operation\obj\x86\Debug\Arithmetic_Operation.pdb

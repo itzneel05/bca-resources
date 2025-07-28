@@ -1,9 +1,0 @@
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\bin\Debug\Basic_Operation.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\bin\Debug\Basic_Operation.pdb
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\bin\Debug\Basic_Operation.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\obj\x86\Debug\Basic_Operation.Form1.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\obj\x86\Debug\Basic_Operation.Resources.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\obj\x86\Debug\Basic_Operation.vbproj.GenerateResource.Cache
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\obj\x86\Debug\Basic_Operation.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\obj\x86\Debug\Basic_Operation.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Basic_Operation\Basic_Operation\obj\x86\Debug\Basic_Operation.pdb

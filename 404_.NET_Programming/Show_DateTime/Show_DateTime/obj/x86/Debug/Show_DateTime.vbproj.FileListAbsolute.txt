@@ -1,9 +1,0 @@
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\bin\Debug\Show_DateTime.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\bin\Debug\Show_DateTime.pdb
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\bin\Debug\Show_DateTime.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\obj\x86\Debug\Show_DateTime.Form1.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\obj\x86\Debug\Show_DateTime.Resources.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\obj\x86\Debug\Show_DateTime.vbproj.GenerateResource.Cache
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\obj\x86\Debug\Show_DateTime.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\obj\x86\Debug\Show_DateTime.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Show_DateTime\Show_DateTime\obj\x86\Debug\Show_DateTime.pdb

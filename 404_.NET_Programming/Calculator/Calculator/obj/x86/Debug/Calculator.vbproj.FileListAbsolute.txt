@@ -1,9 +1,0 @@
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\bin\Debug\Calculator.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\obj\x86\Debug\Calculator.Resources.resources
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\obj\x86\Debug\Calculator.exe
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\obj\x86\Debug\Calculator.xml
-C:\Users\Home\Desktop\Practical\GitHub_repo\.NET\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
