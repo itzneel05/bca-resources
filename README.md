@@ -1,6 +1,6 @@
 # 📘 BCA Semester 4 Resources
 
-Welcome to the Semester 4 folder of my BCA Learning Repository!  
+Welcome to the Semester  folder of my BCA Learning Repository!  
 This branch includes my **personal study codes** and **practice questions** for two major subjects studied during the fourth semester. It is designed to help students prepare effectively for **practical exams**.
 
 ---
