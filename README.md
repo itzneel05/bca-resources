@@ -10,10 +10,10 @@ Each semester is managed in its own **branch** to keep things organized and rele
 
 | Semester | Branch Redirect | PDF Redirect | Practical Q&A Redirect |
 |----------|-----------------|----------------|-------------------------|
-| Semester 1 | [Go to sem-1]() | [PDF]() | Coming Soon |
-| Semester 2 | [Go to sem-2]() | [PDF]() | Coming Soon |
-| Semester 3 | [Go to sem-3]() | [PDF]() | Coming Soon |
-| Semester 4 | [Go To Sem-4](https://github.com/itzneel05/bca-resources/tree/semester-4?tab=readme-ov-file) | [PDF]() | [Practical]() |
+| Semester 1 | [Go to sem-1](https://github.com/itzneel05/bca-resources/tree/semester-1) | [PDF](https://github.com/itzneel05/bca-resources/tree/semester-1/materials) | Coming Soon |
+| Semester 2 | [Go to sem-2](https://github.com/itzneel05/bca-resources/tree/semester-2) | [PDF](https://github.com/itzneel05/bca-resources/tree/semester-2/materials) | Coming Soon |
+| Semester 3 | [Go to sem-3](https://github.com/itzneel05/bca-resources/tree/semester-3) | [PDF](https://github.com/itzneel05/bca-resources/tree/semester-3/materials) | Coming Soon |
+| Semester 4 | [Go To Sem-4](https://github.com/itzneel05/bca-resources/tree/semester-4) | [PDF](https://github.com/itzneel05/bca-resources/tree/semester-4/materials) | [Practical]() |
 | Semester 5 | Coming Soon |
 | Semester 6 | Coming Soon |
 
