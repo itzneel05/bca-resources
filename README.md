@@ -1,55 +1,43 @@
 # 📚 BCA Resources Repository
 
-Welcome to the **BCA Resources** repository! This collection contains Java programs, practical question sets, and simple project references that I have personally created and studied during my Bachelor of Computer Applications (BCA). The materials are organized semester-wise for clarity and easy access.
+Welcome to the **BCA Resources** repository! This is an open-source collection of comprehensive materials for Bachelor of Computer Applications (BCA) students, including subject-wise PDFs (books and notes), practical questions with answers, and code examples. Everything is organized by semester in dedicated branches, with the `main` branch serving as the central index.
 
-> 🔖 This is **not** a comprehensive textbook resource but rather a curated set of my personal notes, programs, and learning experiments.
-
----
+> 🔖 This is **not** a comprehensive textbook resource but rather a curated set of my personal collected notes, pdf-material, programs, and learning experiments.
 
 ## 📂 Repository Structure
 
 Each semester is managed in its own **branch** to keep things organized and relevant. The `main` branch you're viewing now serves as the index and guide.
 
-| Semester | Subjects Covered | Branch Link |
-|----------|------------------|-------------|
-| Semester 1 | Coming Soon | `sem-5` |
-| Semester 2 | Coming Soon | `sem-5` |
-| Semester 3 | Coming Soon | [Go To Sem-4](https://github.com/itzneel05/bca-resources/tree/semester-4?tab=readme-ov-file) |
-| Semester 4 | Java Programming Language, .NET Framework | [Go to sem-4](https://github.com/itzneel05/bca-resources/tree/semester-4?tab=readme-ov-file) |
-| Semester 5 | Coming Soon | `sem-5` |
-| Semester 6 | Coming Soon | `sem-6` |
+| Semester | Branch Redirect | PDF Redirect | Practical Q&A Redirect |
+|----------|-----------------|----------------|-------------------------|
+| Semester 1 | [Go to sem-1]() | [PDF]() | Coming Soon |
+| Semester 2 | [Go to sem-2]() | [PDF]() | Coming Soon |
+| Semester 3 | [Go to sem-3]() | [PDF]() | Coming Soon |
+| Semester 4 | [Go To Sem-4](https://github.com/itzneel05/bca-resources/tree/semester-4?tab=readme-ov-file) | [PDF]() | [Practical]() |
+| Semester 5 | Coming Soon |
+| Semester 6 | Coming Soon |
 
 > 📌 Use the dropdown in GitHub’s branch selector to switch between semesters.
 
----
-
 ## 🎯 Goal
 
-The aim of this repository is to:
-- Share clean and working source codes for practical exams.
-- Provide beginner-to-advanced practice questions.
-- Help other students navigate BCA course materials efficiently.
-- Encourage learning through open resources.
-
----
+- The goal is to provide a one-stop, open-source resource for BCA study and exam preparation, covering theory (via PDFs) and practice (via questions, answers, and codes). It aims to help students from beginner to advanced levels, foster community contributions.
 
 ## 🚀 How to Use
+1. Click a branch link above or use the GitHub branch selector to switch.
+2. In the branch, explore materials folders (e.g., `oops-and-ds/`):
+   - `materials/`: Download books/notes.
+   - `practicals/`: View questions/answers in markdown and run code files (e.g., .java, .html).
+3. Clone the repo locally for offline access: `git clone https://github.com/itzneel05/bca-resources.git`, then switch branches (e.g., `git checkout sem-3`).
+4. Practice tips: Read PDFs for theory, then tackle practicals for hands-on learning.
 
-1. **Switch to the relevant semester branch** from the top-left branch dropdown.
-2. Explore subject-wise folders inside the branch.
-3. Refer to `README.md` in each folder for syllabus topics, usage tips, and guidance.
-4. Clone or download code as needed.
+## 🤝 Contributing and Collaborations
+This repo is open source and actively accepting collaborations! Whether you're a BCA student, teacher, or developer, feel free to contribute. We welcome additions like new PDFs, code examples, practical questions/answers, fixes in repo.If you're interested in collaborating more deeply, reach out via issues or contact details below.
 
----
-
-## 🤝 Contributing
-
-This is a personal project but feel free to fork or suggest improvements by opening issues.
-
----
 
 ## 📬 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out on:
 - GitHub: [itzneel05](https://github.com/itzneel05)
 - LinkedIn: [Neel Ijner](https://www.linkedin.com/in/neel-ijner-b941a9308/)
+
